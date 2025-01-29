@@ -1,6 +1,6 @@
 # Master Mobile Legends with the Power of NIX Injector
 
-This project contains a simple HTML webpage that provides comprehensive <a href=http://nixinjectors.com/>Nix Injector Apk</a> Mobile Legends is a dynamic game that requires skill, strategy, and quick thinking to win, but with the NIX Injector APK, you can take your gameplay to the next level. 
+This project contains a simple HTML webpage that provides comprehensive <a href=http://nixinjectors.com/>Nix Injector </a> Mobile Legends is a dynamic game that requires skill, strategy, and quick thinking to win, but with the NIX Injector APK, you can take your gameplay to the next level. 
 
 By unlocking exclusive skins, effects, and features, this tool gives you the freedom to customize your heroes and their abilities, making every match a unique experience.
 
